@@ -1,4 +1,4 @@
-name := """entrainement"""
+name := """training-keeper"""
 
 version := "1.0-SNAPSHOT"
 
